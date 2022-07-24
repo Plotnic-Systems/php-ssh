@@ -20,7 +20,7 @@ composer install
 
 ## Alternatively, you can run directly in your terminal:
 ```
-composer require "edvnetwork/php-ssh:2.1"
+composer require edvnetwork/php-ssh
 ```
 
 ## SSH connection with simple user and password authentication
