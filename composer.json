@@ -1,5 +1,5 @@
 {
-    "name": "edvnetwork/PHP-SSH",
+    "name": "edvnetwork/php-ssh",
     "license": "MIT",
     "description": "PHP sdk for connect to servers via ssh, sftp an more.",
     "homepage": "https://www.edv-network.group",
