@@ -13,7 +13,6 @@
             "email": "mail@service-edv-network.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
