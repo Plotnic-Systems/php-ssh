@@ -1,0 +1,17 @@
+{
+    "name": "edvnetwork/PHP-SSH",
+    "license": "MIT",
+    "description": "PHP sdk for connect to servers via ssh, sftp an more.",
+    "homepage": "https://www.edv-network.group",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-0": {
+            "EDV": "src"
+        }
+    }
+}
