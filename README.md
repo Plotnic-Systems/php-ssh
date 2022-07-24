@@ -1,6 +1,28 @@
 # PHP-SSH Client
 A PHP sdk for connect to servers via ssh, sftp an more.
 
+## Dependencies
+- PHP >= 7.4
+
+## Setup
+If you already have a file, just add the following dependency to your project: ```composer.json```
+
+```json
+"require": {
+    "edvnetwork/php-ssh":"dev-master"
+}
+```
+
+## With the dependency added to , just run: ```composer.json```
+```ssh
+composer install
+```
+
+## Alternatively, you can run directly in your terminal:
+```
+composer require "edvnetwork/php-ssh:dev-master"
+```
+
 ## SSH connection with simple user and password authentication
 
 ```php
