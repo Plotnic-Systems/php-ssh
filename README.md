@@ -9,7 +9,7 @@ If you already have a file, just add the following dependency to your project: `
 
 ```json
 "require": {
-    "edvnetwork/php-ssh":"dev-master"
+    "edvnetwork/php-ssh": "^2.1"
 }
 ```
 
@@ -20,7 +20,7 @@ composer install
 
 ## Alternatively, you can run directly in your terminal:
 ```
-composer require "edvnetwork/php-ssh:dev-master"
+composer require "edvnetwork/php-ssh:2.1"
 ```
 
 ## SSH connection with simple user and password authentication
