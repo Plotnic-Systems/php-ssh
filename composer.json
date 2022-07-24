@@ -3,6 +3,17 @@
     "license": "MIT",
     "description": "PHP sdk for connect to servers via ssh, sftp an more.",
     "homepage": "https://www.edv-network.group",
+    "support": {
+        "issues": "https://github.com/edvnetwork/PHP-SSH/issues",
+        "source": "https://customer.edv-network.group/tickets"
+    },
+    "authors": [
+        {
+            "name": "Danilo Ständer",
+            "email": "mail@service-edv-network.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
